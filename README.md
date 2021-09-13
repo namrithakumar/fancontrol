@@ -30,6 +30,8 @@ Type either **SPEED** or **DIRECTION** or **EXIT** and press enter.
 
 **Location of main class** : org.example.fancontrol.base.FanControlMain.java
 
+**Location of test class** : https://github.com/namrithakumar/fancontrol/blob/master/src/test/java/FanTest.java
+
 ## **Note that the below points are assumed,**
 
 Speed Setting is ```["OFF", "LOW", "MEDIUM", "HIGH"]```
@@ -40,6 +42,7 @@ Direction Setting is ```["CLOCKWISE", "COUNTER CLOCKWISE"]```
 
 Initial Direction is ```CLOCKWISE```
 
+User enters either **SPEED** or **DIRECTION** or **EXIT** as input
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
