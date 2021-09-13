@@ -16,7 +16,7 @@ Open cmd and type ```java -version.```
 Check whether it shows atleast 1.8.0_xxx
 
 ## 2) Running the code - you have 2 options:
-**Option 1** - Download the jar directly from /FanControl/jar.
+**Option 1** - Download the jar directly from https://github.com/namrithakumar/fancontrol/tree/master/jar
 
 Run the jar using the command ```java -jar fancontrol.jar```
 
