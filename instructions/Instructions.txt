@@ -1,0 +1,22 @@
+1) Check java version on your system
+Open cmd and type java -version.
+Check whether it shows atleast 1.8.0_xxx
+
+2) Running the code - you have 2 options:
+Option 1 - Download the jar directly from /FanControl/jar and run the jar using the command java -jar fancontrol.jar
+
+Option 2 - Download the code, do: mvn clean install -U
+Run the jar from /FanControl/target/fancontrol.jar
+
+3) When you run the jar, you will see text asking you to select your option.
+Type either SPEED or DIRECTION or EXIT and press enter.
+SPEED will change the speed of the fan
+DIRECTION will change direction of the fan
+EXIT will exit the program.
+
+Note that the below points are assumed,
+Speed Setting is ["OFF", "LOW", "MEDIUM", "HIGH"]
+Inital Speed is OFF
+
+Direction Setting is ["CLOCKWISE", "COUNTER CLOCKWISE"]
+Initial Direction is CLOCKWISE
