@@ -1,5 +1,12 @@
 # fancontrol
 
+## Contents:
+
+1) Instructions on how to run the code
+2) Sample screenshots
+3) Unit tests
+4) Base code for the problem statement
+
 ## INSTRUCTIONS
 
 ## 1) Check java version on your system
