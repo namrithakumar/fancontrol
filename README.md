@@ -6,6 +6,7 @@
 2) Sample screenshots
 3) Unit tests
 4) Base code for the problem statement
+5) Assumptions - awaiting clarification
 
 ## INSTRUCTIONS
 
