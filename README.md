@@ -28,6 +28,8 @@ Type either **SPEED** or **DIRECTION** or **EXIT** and press enter.
 
 ![Sample Screenshot](https://github.com/namrithakumar/fancontrol/blob/master/instructions/Example.png)
 
+**Location of main class** : org.example.fancontrol.base.FanControlMain.java
+
 ## **Note that the below points are assumed,**
 
 Speed Setting is ```["OFF", "LOW", "MEDIUM", "HIGH"]```
