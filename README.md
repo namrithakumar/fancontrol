@@ -34,15 +34,15 @@ Type either **SPEED** or **DIRECTION** or **EXIT** and press enter.
 
 ## **Note that the below points are assumed,**
 
-Speed Setting is ```["OFF", "LOW", "MEDIUM", "HIGH"]```
+* Speed Setting is ```["OFF", "LOW", "MEDIUM", "HIGH"]```
 
-Inital Speed is ```OFF```
+* Inital Speed is ```OFF```
 
-Direction Setting is ```["CLOCKWISE", "COUNTER CLOCKWISE"]```
+* Direction Setting is ```["CLOCKWISE", "COUNTER CLOCKWISE"]```
 
-Initial Direction is ```CLOCKWISE```
+* Initial Direction is ```CLOCKWISE```
 
-User enters either ```SPEED``` or ```DIRECTION``` or ```EXIT``` as input
+* User enters either ```SPEED``` or ```DIRECTION``` or ```EXIT``` as input
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
