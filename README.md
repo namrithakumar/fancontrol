@@ -42,7 +42,7 @@ Direction Setting is ```["CLOCKWISE", "COUNTER CLOCKWISE"]```
 
 Initial Direction is ```CLOCKWISE```
 
-User enters either **SPEED** or **DIRECTION** or **EXIT** as input
+User enters either ```SPEED``` or ```DIRECTION``` or ```EXIT``` as input
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
