@@ -8,7 +8,7 @@
 4) Assumptions - awaiting clarification
 5) Unit tests using JUnit
 6) Base code for the problem statement
-7) Design patterns used
+7) Design patterns used and potential improvements
 
 ## INSTRUCTIONS
 
