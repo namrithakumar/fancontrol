@@ -8,6 +8,7 @@
 4) Unit tests
 5) Base code for the problem statement
 6) Assumptions - awaiting clarification
+7) Design patterns used
 
 ## INSTRUCTIONS
 
@@ -58,6 +59,11 @@ Type either **SPEED** or **DIRECTION** or **EXIT** and press enter.
 * Initial Direction is ```CLOCKWISE```
 
 * User enters either ```SPEED``` or ```DIRECTION``` or ```EXIT``` as input
+
+## Design patterns used:
+* State design pattern
+* Factory pattern
+* Composite pattern (coding to interface instead of classes)
 
 ## Potential improvements:
 * Change Speed/Direction interface to abstract class
