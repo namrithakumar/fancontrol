@@ -65,6 +65,8 @@ Type either **SPEED** or **DIRECTION** or **EXIT** and press enter.
 * Factory pattern
 * Composite pattern (coding to interface instead of classes)
 
+Use of these design patterns make the system highly extensible.
+
 ## Potential improvements:
 * Change Speed/Direction interface to abstract class
 * Add state diagram for Speed and Direction
