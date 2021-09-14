@@ -53,6 +53,9 @@ Type either **SPEED** or **DIRECTION** or **EXIT** and press enter.
 
 * User enters either ```SPEED``` or ```DIRECTION``` or ```EXIT``` as input
 
+## System Diagram / Low level design
+
+![System Diagram / Low level design](https://github.com/namrithakumar/fancontrol/blob/master/instructions/UML/FanControl-UML.png)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Fan Test Problem Statement:**
