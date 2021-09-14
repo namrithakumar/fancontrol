@@ -5,9 +5,9 @@
 1) Instructions on how to run the code
 2) Sample screenshots
 3) System diagram / Low level design
-4) Unit tests
-5) Base code for the problem statement
-6) Assumptions - awaiting clarification
+4) Assumptions - awaiting clarification
+5) Unit tests using JUnit
+6) Base code for the problem statement
 7) Design patterns used
 
 ## INSTRUCTIONS
