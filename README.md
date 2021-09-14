@@ -7,7 +7,7 @@
 3) Unit tests
 4) Base code for the problem statement
 5) Assumptions - awaiting clarification
-6) UML diagram / System architecture / Low level design - https://github.com/namrithakumar/fancontrol/blob/master/instructions/UML/FanControl-UML.png
+6) System diagram / Low level design - https://github.com/namrithakumar/fancontrol/blob/master/instructions/UML/FanControl-UML.png
 
 ## INSTRUCTIONS
 
