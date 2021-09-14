@@ -61,6 +61,7 @@ Type either **SPEED** or **DIRECTION** or **EXIT** and press enter.
 
 ## Potential improvements:
 * Change Speed/Direction interface to abstract class
+* Add state diagram for Speed and Direction
 * Add gitignore file (to remove .idea folder)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
