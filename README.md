@@ -6,7 +6,7 @@
 2) Sample screenshots
 3) System diagram / Low level design
   ( [View System Diagram / Low level design](https://github.com/namrithakumar/fancontrol/blob/master/instructions/UML/FanControl-UML.png) )
-4) Assumptions - awaiting clarification
+4) Assumptions
 5) Unit tests using JUnit
   ([View JUnit here](https://github.com/namrithakumar/fancontrol/blob/master/src/test/java/FanTest.java))
 6) Base code for the problem statement
