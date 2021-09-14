@@ -5,7 +5,11 @@
 1) Instructions on how to run the code
 2) Sample screenshots
 3) System diagram / Low level design
-  ( [View System Diagram / Low level design](https://github.com/namrithakumar/fancontrol/blob/master/instructions/UML/FanControl-UML.png) )
+
+   ( [View System Diagram / Low level design](https://github.com/namrithakumar/fancontrol/blob/master/instructions/UML/FanControl-UML.png) )
+
+    ( [View State Diagram](https://github.com/namrithakumar/fancontrol/blob/master/instructions/UML/FanControl%20State%20Diagram.png) )
+
 4) Assumptions
 5) Unit tests using JUnit
   ([View JUnit here](https://github.com/namrithakumar/fancontrol/blob/master/src/test/java/FanTest.java))
@@ -49,6 +53,7 @@ Type either **SPEED** or **DIRECTION** or **EXIT** and **press enter**.
 ## System Diagram / Low level design
 
 ![System Diagram / Low level design](https://github.com/namrithakumar/fancontrol/blob/master/instructions/UML/FanControl-UML.png)
+![State Diagram](https://github.com/namrithakumar/fancontrol/blob/master/instructions/UML/FanControl%20State%20Diagram.png)
 
 ## **Note that the below points are assumed,**
 
