@@ -76,7 +76,6 @@ Use of these design patterns make the system highly extensible.
 
 ## Potential improvements:
 * Change Speed/Direction interface to abstract class
-* Add state diagram for Speed and Direction
 * Add gitignore file (to remove .idea folder)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
