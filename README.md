@@ -32,7 +32,7 @@ Run the jar from /FanControl/target/fancontrol.jar
 
 ## 3) When you run the jar, you will see text asking you to select an option.
 
-Type either **SPEED** or **DIRECTION** or **EXIT** and press enter.
+Type either **SPEED** or **DIRECTION** or **EXIT** and **press enter**.
 
 **SPEED** will change the speed of the fan
 
