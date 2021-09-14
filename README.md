@@ -25,6 +25,8 @@ Run the jar using the command ```java -jar fancontrol.jar```
 
 Run the jar from /FanControl/target/fancontrol.jar
 
+**Suggested IDE** : IntellIJ
+
 ## 3) When you run the jar, you will see text asking you to select an option.
 
 Type either **SPEED** or **DIRECTION** or **EXIT** and press enter.
@@ -56,6 +58,10 @@ Type either **SPEED** or **DIRECTION** or **EXIT** and press enter.
 * Initial Direction is ```CLOCKWISE```
 
 * User enters either ```SPEED``` or ```DIRECTION``` or ```EXIT``` as input
+
+## Potential improvements:
+* Change Speed/Direction interface to abstract class
+* Add gitignore file (to remove .idea folder)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
