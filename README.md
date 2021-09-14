@@ -4,10 +4,10 @@
 
 1) Instructions on how to run the code
 2) Sample screenshots
-3) Unit tests
-4) Base code for the problem statement
-5) Assumptions - awaiting clarification
-6) System diagram / Low level design - https://github.com/namrithakumar/fancontrol/blob/master/instructions/UML/FanControl-UML.png
+3) System diagram / Low level design
+4) Unit tests
+5) Base code for the problem statement
+6) Assumptions - awaiting clarification
 
 ## INSTRUCTIONS
 
@@ -41,6 +41,10 @@ Type either **SPEED** or **DIRECTION** or **EXIT** and press enter.
 
 **Location of test class** : https://github.com/namrithakumar/fancontrol/blob/master/src/test/java/FanTest.java
 
+## System Diagram / Low level design
+
+![System Diagram / Low level design](https://github.com/namrithakumar/fancontrol/blob/master/instructions/UML/FanControl-UML.png)
+
 ## **Note that the below points are assumed,**
 
 * Speed Setting is ```["OFF", "LOW", "MEDIUM", "HIGH"]```
@@ -53,9 +57,6 @@ Type either **SPEED** or **DIRECTION** or **EXIT** and press enter.
 
 * User enters either ```SPEED``` or ```DIRECTION``` or ```EXIT``` as input
 
-## System Diagram / Low level design
-
-![System Diagram / Low level design](https://github.com/namrithakumar/fancontrol/blob/master/instructions/UML/FanControl-UML.png)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Fan Test Problem Statement:**
